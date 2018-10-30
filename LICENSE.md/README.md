@@ -1,5 +1,6 @@
 # TournamentParser
-Parses a tournament file (an XML file created by either Wizards Event Reporter or Konami Tournament Software)
+Parses a tournament file (an XML file created by either Wizards Event Reporter or Konami Tournament Software) and
+pull out the names and player ID number of each indivdual player, the event date, and the number of participants
 
 # What will this do?
 
