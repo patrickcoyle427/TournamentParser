@@ -1,21 +1,7 @@
 # TournamentParser
-Parses .wer and .tournament files (XML files created by Wizards Event Reporter and Konami Tournament Software respectively) and
+Parses .wer files (XML files created by Wizards Event Reporter) and
 pull out the names and player ID number of each indivdual player, the event date, and the number of participants
 
-# What will this do?
+My plan is to eventually encorporate parsing .Tournament files (Konami Tournament Software xml files) into this eventually
 
-- Reads the names and player ID number of participants
-
-- If it is their first time being read, creates a record in a sqlite db.
-
-- If they have already played, increases their tournament points by a user specified number
-
-  - Allows the user to specify how many points should be awarded for entering and if there are any additional
-    points for placement
-    
- - Record number of participants and date so graphs of tournament attendance can be made
-
- - Able to select the top x point scorers or all players that meet a certain threshold so they can qualify for
-   a special event.
-
-  - Ability to generate a report based on this information
+Currently will just print to the screen, but eventually will export to a spreadsheet. Eventual plan is to let you create an event you are storing points for and then selecting that event before tournaments are scanned.
