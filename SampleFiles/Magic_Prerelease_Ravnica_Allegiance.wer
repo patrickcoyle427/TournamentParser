@@ -1,0 +1,266 @@
+<event sanctionnumber="19-01-13241260" eventguid="bbb5c46e-c19f-47ff-8ac3-63348c96c725" eventtypecode="PR" orgname="Alternate Universes - East Norriton" coordinator="29670890" headjudge="63439565" startdate="2019-01-20" postevententry="false" enddate="2001-01-01T00:00:00" format="SEALED" eliminationType="3" iscasualreportonly="False" title="Magic Prerelease Ravnica Allegiance" isstarted="True" status="8" batchid="" isplayoff="False" manualmatchround="0" notes="19-01-13241260" numberofrounds="3" playoffstartround="0">
+  <participation>
+    <person id="9318191577" first="Charlie" last="Chen" middle="" country="US" />
+    <person id="1313900573" first="Stephen" last="Au" middle="" country="US" />
+    <person id="5313956294" first="Shane" last="Walsh" middle="" country="US" />
+    <person id="8313900582" first="Samar" last="Abdelhamed" middle="" country="US" />
+    <person id="9030320775" first="Ming" last="Au" middle="" country="US" />
+    <person id="7030644133" first="Jake" last="Landaiche" middle="" country="US" />
+    <person id="6030644136" first="Drew" last="Landaiche" middle="" country="US" />
+    <person id="7115333731" first="Peter T" last="Eldredge" middle="" country="US" />
+    <person id="2030504907" first="Vincent" last="Cuinn" middle="" country="US" />
+    <person id="9214005685" first="Anthony" last="Janczewski" middle="C" country="US" />
+    <person id="6113545799" first="Sam" last="Babb" middle="" country="US" />
+    <person id="7115333717" first="Pete" last="Eldredge" middle="" country="US" />
+    <person id="4314729782" first="Kanny" last="Liang" middle="" country="US" />
+    <person id="7115333793" first="Matthew" last="Tummino" middle="" country="US" />
+    <person id="2023475321" first="Mark" last="Crowley" middle="" country="US" />
+    <person id="6317184543" first="Albert" last="Hahn" middle="" country="US" />
+    <person id="7115333779" first="Marshall" last="Smith" middle="" country="US" />
+    <person id="9107202163" first="Nick" last="Taylor" middle="" country="US" />
+    <person id="4030427521" first="Robert" last="Taylor" middle="J" country="US" />
+    <person id="6030320776" first="Ralph" last="Sposato" middle="" country="US" />
+    <person id="7214130139" first="Bryan" last="Tate" middle="" country="US" />
+    <person id="79583906" first="Bradley" last="Robinson" middle="" country="US" />
+    <person id="5115608183" first="George" last="Atkins" middle="" country="US" />
+    <person id="7115333765" first="John" last="Kavanagh" middle="" country="US" />
+    <person id="9030764833" first="Mark" last="Szilagyi" middle="" country="US" />
+    <person id="7410774965" first="Mike" last="Appler" middle="" country="US" />
+    <person id="6300396682" first="Nate" last="Coffin" middle="" country="US" />
+    <person id="2030418557" first="Andrew" last="Johnson" middle="" country="US" />
+    <person id="6030427526" first="Benjamin" last="Robinson" middle="" country="US" />
+    <person id="7313900574" first="Jim" last="Hardman" middle="" country="US" />
+    <person id="7101750163" first="Dylan" last="Grimes" middle="" country="US" />
+    <person id="2208471817" first="Craig" last="Hinners" middle="" country="US" />
+    <person id="2317796612" first="Andrew" last="Cheng" middle="" country="US" />
+    <person id="1205937489" first="Joshua" last="Southwick" middle="" country="US" />
+    <person id="4314104318" first="Steven" last="Conboy" middle="C" country="US" />
+    <person id="63439565" first="Chas" last="Hinkle" middle="E" country="US" />
+    <team id="5655" name="Tate, Bryan" status="2" eliminationround="0">
+      <member position="A" person="7214130139" />
+    </team>
+    <team id="5656" name="Walsh, Shane" status="2" eliminationround="0">
+      <member position="A" person="5313956294" />
+    </team>
+    <team id="5657" name="Grimes, Dylan" status="2" eliminationround="0">
+      <member position="A" person="7101750163" />
+    </team>
+    <team id="5658" name="Au, Ming" status="2" eliminationround="0">
+      <member position="A" person="9030320775" />
+    </team>
+    <team id="5659" name="Au, Stephen" status="2" eliminationround="0">
+      <member position="A" person="1313900573" />
+    </team>
+    <team id="5660" name="Johnson, Andrew" status="2" eliminationround="0">
+      <member position="A" person="2030418557" />
+    </team>
+    <team id="5661" name="Atkins, George" status="2" eliminationround="0">
+      <member position="A" person="5115608183" />
+    </team>
+    <team id="5662" name="Kavanagh, John" status="2" eliminationround="0">
+      <member position="A" person="7115333765" />
+    </team>
+    <team id="5663" name="Smith, Marshall" status="2" eliminationround="0">
+      <member position="A" person="7115333779" />
+    </team>
+    <team id="5664" name="Tummino, Matthew" status="2" eliminationround="0">
+      <member position="A" person="7115333793" />
+    </team>
+    <team id="5665" name="Landaiche, Drew" status="2" eliminationround="0">
+      <member position="A" person="6030644136" />
+    </team>
+    <team id="5666" name="Landaiche, Jake" status="2" eliminationround="0">
+      <member position="A" person="7030644133" />
+    </team>
+    <team id="5667" name="Crowley, Mark" status="3" eliminationround="2">
+      <member position="A" person="2023475321" />
+    </team>
+    <team id="5668" name="Hardman, Jim" status="2" eliminationround="0">
+      <member position="A" person="7313900574" />
+    </team>
+    <team id="5669" name="Hahn, Albert" status="2" eliminationround="0">
+      <member position="A" person="6317184543" />
+    </team>
+    <team id="5670" name="Cheng, Andrew" status="2" eliminationround="0">
+      <member position="A" person="2317796612" />
+    </team>
+    <team id="5671" name="Janczewski, Anthony" status="2" eliminationround="0">
+      <member position="A" person="9214005685" />
+    </team>
+    <team id="5672" name="Szilagyi, Mark" status="2" eliminationround="0">
+      <member position="A" person="9030764833" />
+    </team>
+    <team id="5673" name="Robinson, Benjamin" status="2" eliminationround="0">
+      <member position="A" person="6030427526" />
+    </team>
+    <team id="5674" name="Cuinn, Vincent" status="2" eliminationround="0">
+      <member position="A" person="2030504907" />
+    </team>
+    <team id="5675" name="Hinners, Craig" status="2" eliminationround="0">
+      <member position="A" person="2208471817" />
+    </team>
+    <team id="5676" name="Abdelhamed, Samar" status="2" eliminationround="0">
+      <member position="A" person="8313900582" />
+    </team>
+    <team id="5677" name="Sposato, Ralph" status="2" eliminationround="0">
+      <member position="A" person="6030320776" />
+    </team>
+    <team id="5678" name="Eldredge, Pete" status="2" eliminationround="0">
+      <member position="A" person="7115333717" />
+    </team>
+    <team id="5679" name="Eldredge, Peter T" status="2" eliminationround="0">
+      <member position="A" person="7115333731" />
+    </team>
+    <team id="5680" name="Chen, Charlie" status="2" eliminationround="0">
+      <member position="A" person="9318191577" />
+    </team>
+    <team id="5681" name="Liang, Kanny" status="2" eliminationround="0">
+      <member position="A" person="4314729782" />
+    </team>
+    <team id="5682" name="Robinson, Bradley" status="2" eliminationround="0">
+      <member position="A" person="79583906" />
+    </team>
+    <team id="5683" name="Taylor, Nick" status="2" eliminationround="0">
+      <member position="A" person="9107202163" />
+    </team>
+    <team id="5684" name="Taylor, Robert" status="2" eliminationround="0">
+      <member position="A" person="4030427521" />
+    </team>
+    <team id="5685" name="Coffin, Nate" status="2" eliminationround="0">
+      <member position="A" person="6300396682" />
+    </team>
+    <team id="5686" name="Appler, Mike" status="2" eliminationround="0">
+      <member position="A" person="7410774965" />
+    </team>
+    <team id="5687" name="Babb, Sam" status="3" eliminationround="2">
+      <member position="A" person="6113545799" />
+    </team>
+    <team id="5688" name="Southwick, Joshua" status="2" eliminationround="0">
+      <member position="A" person="1205937489" />
+    </team>
+    <team id="5689" name="Conboy, Steven" status="2" eliminationround="0">
+      <member position="A" person="4314104318" />
+    </team>
+    <role cd="PL" type="PA">
+      <ref person="4314104318" seq="1" />
+      <ref person="7030644133" seq="2" />
+      <ref person="6317184543" seq="3" />
+      <ref person="6030427526" seq="4" />
+      <ref person="4314729782" seq="5" />
+      <ref person="7101750163" seq="6" />
+      <ref person="9030764833" seq="7" />
+      <ref person="9318191577" seq="8" />
+      <ref person="8313900582" seq="9" />
+      <ref person="7214130139" seq="10" />
+      <ref person="7115333779" seq="11" />
+      <ref person="7115333765" seq="12" />
+      <ref person="79583906" seq="13" />
+      <ref person="1313900573" seq="14" />
+      <ref person="6300396682" seq="15" />
+      <ref person="7410774965" seq="16" />
+      <ref person="6030320776" seq="17" />
+      <ref person="6030644136" seq="18" />
+      <ref person="5313956294" seq="19" />
+      <ref person="6113545799" seq="20" />
+      <ref person="7115333717" seq="21" />
+      <ref person="1205937489" seq="22" />
+      <ref person="2208471817" seq="23" />
+      <ref person="7115333793" seq="24" />
+      <ref person="9214005685" seq="25" />
+      <ref person="2030418557" seq="26" />
+      <ref person="5115608183" seq="27" />
+      <ref person="2317796612" seq="28" />
+      <ref person="7115333731" seq="29" />
+      <ref person="2030504907" seq="30" />
+      <ref person="4030427521" seq="31" />
+      <ref person="7313900574" seq="32" />
+      <ref person="2023475321" seq="33" />
+      <ref person="9030320775" seq="34" />
+      <ref person="9107202163" seq="35" />
+    </role>
+    <role cd="PL" type="DQ" />
+    <role cd="JG" type="PA" />
+  </participation>
+  <matches>
+    <round number="1" PlayFormat="SEALED" date="2019-01-20T11:46:19" teamformat="false">
+      <match person="9318191577" opponent="1313900573" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="8313900582" opponent="5313956294" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7030644133" opponent="9030320775" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="6030644136" opponent="7115333731" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="9214005685" opponent="2030504907" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="6113545799" opponent="7115333717" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="4314729782" opponent="7115333793" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="6317184543" opponent="2023475321" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7115333779" opponent="9107202163" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="6030320776" opponent="4030427521" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7214130139" opponent="79583906" outcome="1" win="2" loss="1" draw="0" winbydrop="False" />
+      <match person="7115333765" opponent="5115608183" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="9030764833" opponent="7410774965" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="6300396682" opponent="2030418557" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="6030427526" opponent="7313900574" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7101750163" opponent="2208471817" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="1205937489" opponent="2317796612" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="4314104318" outcome="3" win="2" loss="0" draw="0" winbydrop="False" />
+    </round>
+    <round number="2" PlayFormat="SEALED" date="2019-01-20T12:51:31" teamformat="false">
+      <match person="5313956294" outcome="3" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="8313900582" opponent="6300396682" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="6317184543" opponent="9318191577" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="6030427526" opponent="6030644136" outcome="1" win="2" loss="1" draw="0" winbydrop="False" />
+      <match person="9030764833" opponent="6030320776" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="4314104318" opponent="7115333779" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="4314729782" opponent="7115333765" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7030644133" opponent="6113545799" outcome="1" win="2" loss="1" draw="0" winbydrop="False" />
+      <match person="7101750163" opponent="1205937489" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7214130139" opponent="9214005685" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7115333717" opponent="7313900574" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="2030504907" opponent="9107202163" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="1313900573" opponent="7115333731" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="2030418557" opponent="9030320775" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="2317796612" opponent="5115608183" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7115333793" opponent="2023475321" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="79583906" opponent="2208471817" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7410774965" opponent="4030427521" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+    </round>
+    <round number="3" PlayFormat="SEALED" date="2019-01-20T13:39:52" teamformat="false">
+      <match person="5115608183" outcome="3" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="4314104318" opponent="7214130139" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="6030427526" opponent="9030764833" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7030644133" opponent="8313900582" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="4314729782" opponent="7101750163" outcome="2" win="1" loss="1" draw="1" winbydrop="False" />
+      <match person="6317184543" opponent="7115333717" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="1313900573" opponent="7115333793" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7115333765" opponent="2030418557" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="6300396682" opponent="1205937489" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="79583906" opponent="2030504907" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="6030320776" opponent="9214005685" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="9318191577" opponent="2317796612" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7115333779" opponent="5313956294" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7410774965" opponent="6030644136" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7115333731" opponent="9030320775" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+      <match person="7313900574" opponent="4030427521" outcome="2" win="1" loss="1" draw="0" winbydrop="False" />
+      <match person="2208471817" opponent="9107202163" outcome="1" win="2" loss="0" draw="0" winbydrop="False" />
+    </round>
+  </matches>
+  <seats />
+  <pods>
+    <podround>
+      <round number="1" />
+      <round number="2" />
+      <round number="3" />
+    </podround>
+  </pods>
+  <log>
+    <entry date="2018-11-15T10:26:17" operation="CRE">4.5.5.655</entry>
+    <entry date="2019-01-20T11:46:19" operation="ROUND">Round Started 1</entry>
+    <entry date="2019-01-20T11:46:21" operation="MATCH">Matches created using match algorithm for round 1.</entry>
+    <entry date="2019-01-20T11:59:43" operation="MATCH">Match Created Manually</entry>
+    <entry date="2019-01-20T12:51:31" operation="ROUND">Round Started 2</entry>
+    <entry date="2019-01-20T12:51:33" operation="MATCH">Matches created using match algorithm for round 2.</entry>
+    <entry date="2019-01-20T13:39:52" operation="ROUND">Round Started 3</entry>
+    <entry date="2019-01-20T13:39:53" operation="MATCH">Matches created using match algorithm for round 3.</entry>
+    <entry date="2019-01-20T14:41:26" operation="COM">Tournament Completed</entry>
+    <entry date="2019-01-20T14:41:28" operation="UPL">Results being uploaded.</entry>
+    <entry date="2019-01-20T14:41:28" operation="UPL">Results being uploaded.</entry>
+  </log>
+</event>
