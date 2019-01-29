@@ -25,5 +25,5 @@ automatically loaded and added to the new .csv file.
 If there is more than one option, the user will be prompted for their choice
 of which .csv file should be used.
 
-# The Furture
+# The Future
 My plan is to eventually encorporate parsing .Tournament files (Konami Tournament Software xml files) into this eventuall
