@@ -1,6 +1,11 @@
 # TournamentParser
 Parses .wer files (XML files created by Wizards Event Reporter) and
-pull out the names and player ID number of each indivdual player, and the event date
+pull out the names and player ID number of each indivdual player, and the event date.
+
+It uses this information to award points to players. These points are given to the player for participation
+and how well they do in a tournament. Files are dropped into a folder that is created the first time the script is run.
+Once the user has placed all .wer files they wish to be scanned in the appropriate folder, the script scans the files,
+then moves them to a new folder. Finally, the results are exported to a .csv for easy viewing.
 
 # Usage
 On first run of this script, two directories will be created in the same
