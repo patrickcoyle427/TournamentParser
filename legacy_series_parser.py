@@ -28,10 +28,19 @@ Usage:
 
 # TODO:
 
+# LOL MAKE IT SO YOU CAN DO MULTIPLE SCANS ON THE SAME DAY
+    # See find_old_results, it should probably look at the date of
+    # file creation, not the name of the file lol
 # Add ability to see if tournament has a top 8 play off and base the points
     # earned on that.
     # It is possible to see if a playoff was done in the event tag.
     # The attribute playoffstartround="n" holds this info
+# I did a quick and dirty fix to make Wizards Event Reporter .xml files
+    # work, and they scan fine, but should they be able to be read by this?
+    # If I didn't do it already, maybe just have the script display an
+    # error message for .xml files it can't scan and continue on it's way.
+    # Maybe dump these files into a new folder so the user knows?
+# Allow you to set point modifiers for events (like 10x points for example)
 
 import xml.etree.ElementTree as ET
 
@@ -174,7 +183,7 @@ def scan_for_events():
     # Checks the to_parse folder for .wer events, then passes the list of files
     # to the parser to be scanned and then moved.
 
-    return [file for file in os.listdir('to_parse') if file.endswith('.wer')]
+    return [file for file in os.listdir('to_parse') if file.endswith('.wer') or file.endswith('.xml')]
     # list comp to find all .wer files in a folder, in case other files end
     # up in the to_parse folder.
 
@@ -213,7 +222,6 @@ def parse_events(event_list, old_results):
         # Gets the players in the event and adds them to the player dict in
         # the next for loop
 
-'''
         # playoff_round = int(root.get('playoffstartround'))
 
         #if playoff_round > 0:
@@ -224,7 +232,6 @@ def parse_events(event_list, old_results):
         # can use playoff round to find that match round
         # count the number of matches to determine what the cutoff was
         # Use that to award bonus points based on standing.
-'''
 
 
         for player in event_players:
@@ -257,21 +264,21 @@ def parse_events(event_list, old_results):
                 player_id = match.get('person')
                 # person stores the winner's dci number
 
-                players_dict[player_id][1] += 1
+                players_dict[player_id][1] += 3
                 # index one is the number of points the player has.
-                # Increments their points by 1 for a win
+                # Increments their points by 3 for a win
 
             elif outcome == '2':
 
-                # awards .5 points to each player in a draw
+                # awards 1 point to each player in a draw
 
                 player_1_id = match.get('person')
                 
-                players_dict[player_1_id][1] += .5
+                players_dict[player_1_id][1] += 1
 
                 player_2_id = match.get('opponent')
                 
-                players_dict[player_2_id][1] += .5
+                players_dict[player_2_id][1] += 11
 
         print(f'{event} scanned')
 
