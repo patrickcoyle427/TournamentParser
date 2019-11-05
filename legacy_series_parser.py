@@ -278,7 +278,7 @@ def parse_events(event_list, old_results):
 
                 player_2_id = match.get('opponent')
                 
-                players_dict[player_2_id][1] += 11
+                players_dict[player_2_id][1] += 1
 
         print(f'{event} scanned')
 
